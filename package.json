@@ -1,11 +1,11 @@
 {
-    "name": "react-tailwindcss-datepicker-mk-custom",
+    "name": "react-tailwindcss-datepicker",
     "version": "1.7.2",
     "description": "A modern React Datepicker using Tailwind CSS 3",
     "main": "dist/index.cjs.js",
     "module": "dist/index.esm.js",
     "types": "dist/index.d.ts",
-    "author": "mk",
+    "author": "onesine",
     "license": "MIT",
     "scripts": {
         "watch": "rollup -c -w",
